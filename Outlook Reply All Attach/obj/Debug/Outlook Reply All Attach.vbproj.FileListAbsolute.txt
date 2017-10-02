@@ -1,0 +1,15 @@
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Outlook Reply All Attach.dll
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Outlook Reply All Attach.pdb
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Outlook Reply All Attach.xml
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Outlook Reply All Attach.dll.manifest
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Outlook Reply All Attach.vsto
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\obj\Debug\Outlook_Reply_All_Attach.Ribbon1.resources
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\obj\Debug\Outlook_Reply_All_Attach.Resources.resources
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\obj\Debug\Outlook Reply All Attach.vbproj.GenerateResource.Cache
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\obj\Debug\Outlook Reply All Attach.dll
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\obj\Debug\Outlook Reply All Attach.xml
+c:\users\har4144\documents\visual studio 2013\Projects\Outlook Reply All Attach\Outlook Reply All Attach\obj\Debug\Outlook Reply All Attach.pdb
